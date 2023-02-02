@@ -13,6 +13,7 @@ kivy-deps.sdl2==0.4.5; platform_system == "Windows"
 Kivy-Garden==0.1.5
 packaging==23.0
 pluggy==1.0.0
+pycodestyle==2.10.0
 Pygments==2.14.0
 pypiwin32==223; platform_system == "Windows"
 pytest==7.2.1
